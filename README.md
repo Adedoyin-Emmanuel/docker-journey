@@ -1,6 +1,6 @@
 # Docker Journey 🚀
 
-Yes, finally. I'm learning and using **Docker**. I've always heard of docker and to be honest. I loved it even though I had no idea what it does then. I've explored tons of **Open-Source** projects and I always see **Dockerfile** and to be honest, it sometimes scare me because I thought it was really hard top that, I didn't know what those commands does. Apart from that, My **PC** has **256SSD** storage space and I dual booted **Windows** with **Ubuntu** so I didn't want to lag my system by using **Docker** though I was wrong. You don't need to have a high spec system to run or even use **Docker**. I recently upgraded my PC to **512** so I said, why not try **Docker**. So here I'm learning and using **Docker**.
+Yes, finally. I'm learning and using **Docker**. I've always heard of docker and to be honest. I loved it even though I had no idea what it does then. I've explored tons of **Open-Source** projects and I always see **Dockerfile** and to be honest, it sometimes scare me because I thought it was really hard top that, I didn't know what those commands does. Apart from that, My **PC** had **256SSD** storage space and I dual booted **Windows** with **Ubuntu** so I didn't want to lag my system by using **Docker** though I was wrong. You don't need to have a high spec system to run or even use **Docker**. I recently upgraded my PC to **512** so I said, why not try **Docker**. So here I'm learning and using **Docker**.
 
 ## Why Docker ? 🤔
 
