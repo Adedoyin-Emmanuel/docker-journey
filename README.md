@@ -10,5 +10,5 @@ Well apart from the fact that **Docker** helps solves compatibility issues, it p
 
 As usual, I used Youtube to learn. I will share the links below. I also read the **Docker** documentation to know more about **Docker**.
 
-- [Docker Crash Course By Mosh Hamedani](https://youtube.com)
-- [Lear Docker In 1 Hour FOr Begineers By JS Mastery](https://youtube.com)
+- [Docker Crash Course By Mosh Hamedani](https://youtu.be/pTFZFxd4hOI?si=-TU9Ik8C-wRASHDq)
+- [Lear Docker In 1 Hour For Begineers By JS Mastery](https://youtu.be/GFgJkfScVNU?si=BbhiK8clPwYylijm)
