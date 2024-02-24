@@ -6,6 +6,20 @@ Yes, finally. I'm learning and using **Docker**. I've always heard of docker and
 
 Well apart from the fact that **Docker** helps solves compatibility issues, it provides a smooth developement workflow for building, testing and deploying applications. Uber for example said with **Docker**, onboarding new developers takes minutes instead of weeks. Even before learning **Docker**, I tried using it to run a **Postgresql** and it was awesome. I just pulled the image and then ran it in a container. I love the workflow. I also wrote a custom image for that application. [Taskade API](https://github.com/adedoyin-emmanuel/taskade-api).
 
+## Learning Journey 💻
+
+For this repo, I will use **Docker** on different levels, and I will be dockerizing the following
+
+- A simple NodeJS script just to get my feet wet with **Dockerfile** syntax
+- A React app with vite
+- An API with a Database service. Postgresql to be precise and maybe mongoDB
+- A fullstack application, Frontend, Backend and Database
+- A Fullstack NextJs APP
+- Since I'm also learning **C#**, I will try to see if I can run **C#** by pulling a **Dotnet** image and then running my **C#** **CLI** app there.
+- I will also try it with **C and Python** just for the fun and to go beyond the videos I watched
+
+By the end of that, I will be super confident about **Docker**, **Dockerfile** syntax, and **Dockerizing** almost any application.
+
 ## Resources 🥄
 
 As usual, I used Youtube to learn. I will share the links below. I also read the **Docker** documentation to know more about **Docker**.
