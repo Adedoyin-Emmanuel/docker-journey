@@ -4,4 +4,4 @@ WORKDIR /app
 
 COPY . .
 
-RUN node hello-world.js
+CMD node hello-world.js
