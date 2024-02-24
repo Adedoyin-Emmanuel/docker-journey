@@ -35,7 +35,7 @@ EXPOSE 3000
 
 
 # Run out project
-RUN npm run dev
+CMD npm run dev
 
 
 
