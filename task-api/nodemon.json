@@ -1,0 +1,5 @@
+{
+  "watch": "./",
+  "ext": ".ts, .js",
+  "exec": "bun ./index.ts"
+}
