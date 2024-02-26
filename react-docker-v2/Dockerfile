@@ -26,6 +26,9 @@ EXPOSE 3000
 
 
 
+USER app
+
+
 CMD npm run dev
 
 
