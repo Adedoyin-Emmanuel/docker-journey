@@ -1,0 +1,15 @@
+/home/doyin/Desktop/docker-journey/dotnet-docker/obj/Debug/net8.0/dotnet-docker.GeneratedMSBuildEditorConfig.editorconfig
+/home/doyin/Desktop/docker-journey/dotnet-docker/obj/Debug/net8.0/dotnet-docker.AssemblyInfoInputs.cache
+/home/doyin/Desktop/docker-journey/dotnet-docker/obj/Debug/net8.0/dotnet-docker.AssemblyInfo.cs
+/home/doyin/Desktop/docker-journey/dotnet-docker/obj/Debug/net8.0/dotnet-docker.csproj.CoreCompileInputs.cache
+/home/doyin/Desktop/docker-journey/dotnet-docker/obj/Debug/net8.0/dotnet-docker.sourcelink.json
+/home/doyin/Desktop/docker-journey/dotnet-docker/bin/Debug/net8.0/dotnet-docker
+/home/doyin/Desktop/docker-journey/dotnet-docker/bin/Debug/net8.0/dotnet-docker.deps.json
+/home/doyin/Desktop/docker-journey/dotnet-docker/bin/Debug/net8.0/dotnet-docker.runtimeconfig.json
+/home/doyin/Desktop/docker-journey/dotnet-docker/bin/Debug/net8.0/dotnet-docker.dll
+/home/doyin/Desktop/docker-journey/dotnet-docker/bin/Debug/net8.0/dotnet-docker.pdb
+/home/doyin/Desktop/docker-journey/dotnet-docker/obj/Debug/net8.0/dotnet-docker.dll
+/home/doyin/Desktop/docker-journey/dotnet-docker/obj/Debug/net8.0/refint/dotnet-docker.dll
+/home/doyin/Desktop/docker-journey/dotnet-docker/obj/Debug/net8.0/dotnet-docker.pdb
+/home/doyin/Desktop/docker-journey/dotnet-docker/obj/Debug/net8.0/dotnet-docker.genruntimeconfig.cache
+/home/doyin/Desktop/docker-journey/dotnet-docker/obj/Debug/net8.0/ref/dotnet-docker.dll
